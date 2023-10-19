@@ -1,7 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Lab | Dataframe Calculation and Transformation
-
+.
 ## Introduction
 
 We have learned the basics of dataframe calculation, aggregation, and summarization in the lesson. In this lab you will practice the functions covered in the lessons and learn more advanced ones by solving a series of challenges.
